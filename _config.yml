@@ -14,22 +14,16 @@ url: "https://hhtc2050.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
 github_username:  hhtc2050
 email: trend@139.com
-weibo_username: 3115521wh
-zhihu_username: hll643435675
-linkedIn_username: gaohaoyang
-dribbble_username:
 
-description_footer: 王超是陈俊翔二舅！
+description_footer: 炒期货就是袭胸：只偷袭大波，得手了多摸会儿，失手了赶紧跑路。
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+duoshuo_shortname: hhtc2050
+disqus_shortname:hhtc2050
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
