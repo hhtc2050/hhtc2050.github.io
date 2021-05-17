@@ -2,7 +2,7 @@
 layout: post
 title:  "炒期货就如同袭胸"
 date:   2015-02-15 22:14:54
-categories: jekyll
+categories: 袭胸
 tags: jekyll RubyGems
 ---
 
