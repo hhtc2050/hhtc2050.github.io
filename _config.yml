@@ -17,13 +17,7 @@ permalink: /:year/:month/:day/:title/
 github_username:  hhtc2050
 email: trend@139.com
 
-description_footer: 炒期货就是袭胸：只偷袭大波，得手了多摸会儿，失手了赶紧跑路。
-
-# comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: hhtc2050
-disqus_shortname: hhtc2050
+description_footer: 炒期货就是袭胸：只找大波偷袭，得手了多摸会儿，失手了赶紧跑路。
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
