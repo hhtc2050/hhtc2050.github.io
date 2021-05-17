@@ -13,11 +13,7 @@ url: "https://hhtc2050.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
-# other links
-github_username:  hhtc2050
-email: trend@139.com
-
-description_footer: 欢迎各界投资者洽谈合作。电话（同微信）13451938885。
+description_footer: 欢迎各界投资者洽谈合作  电话（同微信）13451938885  邮箱trend@139.com
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
