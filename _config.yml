@@ -24,6 +24,7 @@ google_analytics_id: UA-72449510-4 # google 分析追踪id
 # Build settings
 markdown: kramdown
 
+description_footer: 欢迎各界投资者洽谈合作，微信13451938885
 email: trend@139.com
 kramdown:
   input: GFM
