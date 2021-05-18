@@ -15,7 +15,7 @@ permalink: /:year/:month/:day/:title/
 baidu_tongji_id: 7ecc8a34540df8373111cd0549d5e4f3
 description_footer: 本站用于彰显袭胸期货团队的交易思路与历史业绩，欢迎各界投资者洽谈合作。
 email: trend@139.com
-
+zhihu_username: wcix
 # Build settings
 markdown: kramdown
 kramdown:
