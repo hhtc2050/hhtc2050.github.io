@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-![image](https://github.com/hhtc2050/hhtc2050.github.io/blob/master/sd.jpg)
+![image](https://github.com/hhtc2050/hhtc2050.github.io/blob/master/page/hhtc2050.jpg)
 
 ## 创始人简介
 * **博弈论硕士，原Wind资讯首席期货分析师，擅长MQL5量化。**
