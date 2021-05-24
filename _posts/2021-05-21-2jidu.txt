@@ -1,5 +1,4 @@
-PLAYSOUND((REF(H,1)-(MAX(REF(O,1),O))>0.5*(REF(H,1)-REF(L,1))) AND REF(H,1)>TOP, 'A');
-PLAYSOUND(((MIN(REF(O,1),O)-REF(L,1))>0.5*(REF(H,1)-REF(L,1))) AND REF(L,1)<BOT, 'A');
+
 
 交易结算单（盯市）
 ─────────────────────────────────────────────────────────
