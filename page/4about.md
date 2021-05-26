@@ -21,8 +21,8 @@ type: page
 * **执业证书：中级经济师、期货投资咨询资格、证券&期货&基金从业资格。**
 
 ## 业务合作
-* **微信 13451938885**
-* **邮箱 trend@139.com**
-* **知乎[北海闲人](https://www.zhihu.com/people/mybazi)**
+* **微信： 13451938885**
+* **邮箱： trend@139.com**
+* **知乎：[北海闲人](https://www.zhihu.com/people/mybazi)**
 
 {% include comments.html %}
