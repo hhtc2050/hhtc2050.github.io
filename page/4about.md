@@ -23,6 +23,6 @@ type: page
 ## 业务合作
 * **微信 13451938885**
 * **邮箱 trend@139.com**
-* **知乎 www.zhihu.com/people/wcix**
+* **[知乎](https://www.zhihu.com/people/mybazi)**
 
 {% include comments.html %}
