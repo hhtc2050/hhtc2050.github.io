@@ -23,7 +23,7 @@ type: page
 ## 业务合作
 * **微信： 13451938885**
 * **邮箱： trend@139.com**
-* **微博： [干支易象](https://weibo.com/wcix)**
+* **微博： [袭胸九式](https://weibo.com/wcix)**
 * **知乎： [欢喜佛](https://www.zhihu.com/people/mybazi)**
 
 {% include comments.html %}
