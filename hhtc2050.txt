@@ -1,3 +1,23 @@
+
+https://www.mql5.com/zh/articles/8807
+自适应算法(第三部分): 放弃优化
+
+https://www.mql5.com/zh/articles/2717
+海龟汤和海龟汤升级版的改进
+
+https://www.mql5.com/zh/articles/3460
+自动搜索背离和趋合
+
+
+开仓：海龟汤、布林线、锤子线
+止损：锤子线
+止盈：微斯人双均线
+
+资金管理模块：相关函数
+
+
+
+
 VOLUME:VOL,VOLSTICK;
 MA20:=MA(V,20);
 TOP:=MA20+2*STD(V,20);
@@ -24,6 +44,14 @@ https://218.90.158.61/personlogin/#/personLogin
 书卡NL10315564
 山东卡北海闲人
 上joi201661+下616386
+
+MQL5论坛帐号
+登录名：13451938885
+密码：joi201661
+注册邮箱406535941@qq.com
+B站也是这个邮箱
+
+
 
 交易全部期货、外汇市场，15分钟图。
 开盘时间，一个交易软件，一个监控软件；
