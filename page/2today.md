@@ -2,7 +2,7 @@
 layout: page
 title: Today
 permalink: /today/
-icon: apple
+icon: flower
 type: page
 ---
 
