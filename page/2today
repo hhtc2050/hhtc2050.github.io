@@ -2,9 +2,8 @@
 layout: page
 title: Today
 permalink: /today/
-icon: apple
+icon: moon
 type: page
 ---
 
 <iframe frameborder="0" width="1000" height="1500" scrolling="yes" src="http://paper.7h365.com/Members/MemberIndex"></iframe>
-
