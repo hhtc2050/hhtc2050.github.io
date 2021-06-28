@@ -6,4 +6,4 @@ icon: star
 type: page
 ---
 
-<iframe frameborder="0" width="1200" height="780" scrolling="no" src="http://paper.7h365.com/Members/MemberIndex"></iframe>
+<iframe frameborder="0" width="1200" height="800" scrolling="no" src="http://paper.7h365.com/Members/MemberIndex"></iframe>
