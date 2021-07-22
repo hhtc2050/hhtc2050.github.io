@@ -8,4 +8,4 @@ type: page
 * content
 {:toc}
 <iframe frameborder="0" width="1170" height="1300" scrolling="no" src="http://paper.7h365.com/Members/MemberIndex"></iframe>
-## 入此门者当放弃一切希望！
+## 强势低吸弱势高抛主动止损被动止盈！
