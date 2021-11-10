@@ -20,5 +20,6 @@ type: page
 * **邮箱： trend@139.com**
 * **公众号： mybazi**
 
-## 主编嗜好：韩剧
+## 主编嗜好
+* **唯一嗜好就是韩剧**
 <iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=18808058&bvid=BV1vW411e7Z7&cid=30675519&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
