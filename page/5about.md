@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-## 创始人简介
+## 主编简介
 * **博弈论硕士，原Wind资讯首席期货分析师，13年交易经验。**
 * **2014年跟随业内传奇孔腿肠从事IF交易，进而研发出旷世绝技《屠猪九式》。**
 * **2021年创办《期货周报》，任报社主编。**
@@ -20,5 +20,5 @@ type: page
 * **邮箱： trend@139.com**
 * **公众号： mybazi**
 
-## 嗜好：韩剧
+## 主编嗜好：韩剧
 <iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=18808058&bvid=BV1vW411e7Z7&cid=30675519&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
