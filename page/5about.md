@@ -21,8 +21,8 @@ type: page
 * **2021年创办《期货周报》，任报社主编。**
 * **执业证书：中级经济师、期货投资咨询资格、证券&期货&基金从业资格。**
 
-## 主编嗜好
+## 主编志趣
 * **文：韩剧**
-* **史：经济史**
+* **史：物价史**
 * **哲：陆王心学**
 <iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=18808058&bvid=BV1vW411e7Z7&cid=30675519&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
