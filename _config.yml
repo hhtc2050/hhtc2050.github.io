@@ -7,7 +7,7 @@
 
 # Site settings
 title: 期货周报 Futures Weekly 선물주간지
-brief-intro:  游资视角的中国大宗商品市场研究
+brief-intro:  ————游资视角的中国大宗商品市场研究
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hhtc2050.github.io" # the base hostname & protocol for your site
 
