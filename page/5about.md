@@ -25,7 +25,7 @@ type: page
 * **文：韩剧**
 * **史：物价史**
 * **哲：陆王心学**
-* **医：黄元御中医**
+* **医：扶阳派中医**
 * **易：大六壬占卜术**
 * **武：少林十二路谭腿**
 <iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=18808058&bvid=BV1vW411e7Z7&cid=30675519&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
