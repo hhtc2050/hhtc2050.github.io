@@ -1,3 +1,44 @@
+1、完成日常报告《证券投资部A股盘后总结》，发送至OA部门群。
+2、完成日常报告《证券投资部A股板块轮动》，发送至董事长。
+3、关注财经媒体热点信息。
+4、盘中密切关注市场动向。
+
+1、复盘本周证券市场热点题材。
+2、复盘本周板块轮动。
+3、复盘本周宏观经济和国际市场信息。
+
+
+
+
+hd054162
+新密码 Hd054162
+http://103.81.123.226:11701
+
+
+
+1611094626红豆集团无锡红豆
+1611094655红博供应链
+
+3900152090
+
+2413900202
+187867
+
+
+MA24:MA(CLOSE,24),COLORGRAY;
+TOP:MA24+2*STD(CLOSE,24),COLORGRAY;
+BOT:MA24-2*STD(CLOSE,24),COLORGRAY;
+DRAWICON((H-(MAX(O,C))>0.5*(H-L)) AND H>TOP,H,2);
+DRAWICON(((MIN(O,C)-L)>0.5*(H-L)) AND L<BOT,L,1);
+
+
+MAV20:=MA(V,20);
+VTOP:=MAV20+2*STD(V,20);
+STICKLINE(V<VTOP,0,V,2,0),COLORGRAY;
+STICKLINE(V>VTOP,0,V,2,0),COLORRED;
+DRAWICON(V>3*MAV20,V,10);
+
+
 
 交易哲学：遍历性+零失控+反脆弱
 拐点=乖离+分型
