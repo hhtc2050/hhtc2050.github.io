@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 期货中国网 Futures of China
-brief-intro:  ——  游资视角的中国大宗商品市场研究
+title: 每星期躺平读书60h+学韩语20h
+brief-intro:  ——  欢迎微读APP书友们来访！
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hhtc2050.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 baidu_tongji_id: 7ecc8a34540df8373111cd0549d5e4f3
-description_footer: 本站用于发布《期货周报》报社的投研逻辑，欢迎各界投资者洽谈合作。
+description_footer: 本站是躺平公主博客，专门写长篇文章。
 email: trend@139.com
 weibo_username: wcix
 zhihu_username: mybazi
