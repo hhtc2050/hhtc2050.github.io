@@ -7,7 +7,7 @@
 
 # Site settings
 title: 期货中国网  Futures of China
-brief-intro:  —— 期货周报公众号官网
+brief-intro:  —— 期货周报社官网
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hhtc2050.github.io" # the base hostname & protocol for your site
 
