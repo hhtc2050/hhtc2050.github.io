@@ -7,7 +7,7 @@
 
 # Site settings
 title: 中国躺平网  Flat of China
-brief-intro:  —— 躺平公主官网
+brief-intro:  —— 躺平公主个人博客
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hhtc2050.github.io" # the base hostname & protocol for your site
 
