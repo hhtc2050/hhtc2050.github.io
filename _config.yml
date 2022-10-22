@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 亚洲躺平网  Flat of China
+title: 亚洲躺平网  Flat of Asia
 brief-intro:  —— 我把服务器放在了美国，这下企鹅删帖员拿姐没办法了
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hhtc2050.github.io" # the base hostname & protocol for your site
