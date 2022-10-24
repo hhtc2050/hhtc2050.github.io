@@ -21,3 +21,5 @@ type: page
 * **https://www.pcchj.com/**
 * **https://www.kan.cc/**
 <iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=18808058&bvid=BV1vW411e7Z7&cid=30675519&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=11780926&bvid=BV1ux411r7jD&cid=19454279&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
