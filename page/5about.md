@@ -13,7 +13,7 @@ type: page
 * **亚洲躺平网CEO，美女，资深韩剧鉴赏专家、物价史专家、行为金融专家、东北亚地缘政治专家、命理学专家、Ocarina笛高手、越南揭棋高手，管理学硕士。**
 * **躺平前是万得资讯首席期货分析师，《屠龙六式》操盘术&屠龙流派开山鼻祖。**
 * **DIY建站的好处，就是可以随意吹牛，没人来喷。**
-![https://github.com/hhtc2050/hhtc2050.github.io/blob/master/css/shaqian.gif]
+* ![https://github.com/hhtc2050/hhtc2050.github.io/blob/master/css/shaqian.gif]
 ## 联系方式
 * **微信读书：每星期躺平读书60h+学韩语20h**
 * 搜梁晓声《中国社会各阶层分析》，下面置顶的书评，就是我。
