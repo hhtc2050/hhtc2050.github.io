@@ -18,6 +18,7 @@ type: page
 * 搜梁晓声《中国社会各阶层分析》，下面置顶的书评，就是我。
 * **公众号： mybazi（别加了，已断更）**
 * **邮箱： trend@139.com**
+![东方双龙24式](https://pic3.zhimg.com/80/v2-264563902f18578d03a7accf38d9e786_720w.webp)
 ## 最喜欢的OST
 * **唐三藏和孙悟空恋爱**
 <iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=18808058&bvid=BV1vW411e7Z7&cid=30675519&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
