@@ -20,9 +20,5 @@ type: page
 * **邮箱： trend@139.com**
 
 ## 最喜欢的OST
-* **唐三藏和孙悟空恋爱**
 <iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=18808058&bvid=BV1vW411e7Z7&cid=30675519&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-* **太阳的后裔**
-<iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=11780926&bvid=BV1ux411r7jD&cid=19454279&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-* **吉太味《东方双龙24式》PK 张三丰外籍弟子《武当太极刀法》**
-<iframe frameborder="0" width="825" height="440" iframe src="//player.bilibili.com/player.html?aid=13192056&bvid=BV1bx411n7fx&cid=21634899&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
