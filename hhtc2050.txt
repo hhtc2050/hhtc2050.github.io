@@ -9,6 +9,66 @@
 开户成功后，修改手续费。登录APP来申请，掌上营业厅最下面。
 选择加0.01，元字不要写
 
+子:=EMA(C,3),COLORWHITE;
+丑:EMA(C,5),COLORWHITE;
+寅:=EMA(C,8),COLORWHITE;
+卯:=EMA(C,10),COLORWHITE;
+辰:=EMA(C,12),COLORWHITE;
+巳:EMA(C,15),COLORWHITE;
+午:EMA(C,30),COLORYELLOW;
+未:EMA(C,35),COLORYELLOW;
+申:EMA(C,40),COLORYELLOW;
+酉:EMA(C,45),COLORYELLOW;
+戌:EMA(C,50),COLORYELLOW;
+亥:EMA(C,60),COLORYELLOW;
+
+赛道选择：只交易F15周期（见龙在田），只交易T+0市场（期货、可转债、外汇）
+亢龙式，6条金龙线&2条银蛇线，二刀流框架，来自宫本武藏、 Daryl Guppy
+亢龙式远离拉锯区，来自缠论中枢、火腿肠同一区间、幽灵规则三回避错误的市场
+亢龙式就是筛选K线图可微的部分，移花接木就是双均线确立定积分的起点和终点
+刺刀式，谢雨锤子线&覆盖线、Nial Fuller锤子线、斯波朗迪2B法则&123法则、缠论一买&二买
+补刀式，Tom Hougaard内包线、斯波朗迪123法则的K线化、寻我双顶双底平台突破
+亢龙有悔、亢龙冇悔，趋势逻辑和乖离逻辑共振，来自火腿肠MA120大斜率&SKD拐头、
+缠论三买、青泽、万浩明、Nial Fuller、Stanley Kroll、Tom Hougaard、殷保华、幽灵规则二
+移花接木，微斯人双均线、李烁、Taleb反脆弱，持有浮盈时间比持有浮亏时间长
+在潜龙勿用阶段，单独的刺刀式和补刀式必须结合巨量，幽灵规则三
+
+亢龙式，T：龙线发散+远离拉锯区
+刺刀式，LS：巨量假突破+锤子线
+补刀式，LS：巨量假突破+内包线
+亢龙有悔，TLS：亢龙式+刺刀式
+亢龙冇悔，TLS：亢龙式+补刀式
+移花接木：影线止损+双均线止盈
+
+老蛮频道
+https://www.youtube.com/@Brute-channel
+
+亚洲在线
+https://www.yyzz112.xyz/index.html
+不明白播客 – Page 6 – 一起探寻真理与答案
+https://www.bumingbai.net/page/6/
+39小说网
+http://www.wxshuku.info/33/33575/3105355.html
+
+躺平哥
+https://www.youtube.com/@Chinese_real_estate/playlists
+北京之春
+http://beijingspring.com/bj2/bbs/index.htm
+
+文昭
+https://www.youtube.com/@wenzhaoofficial
+公子沈 
+https://www.youtube.com/@gongzishen
+李老师
+https://twitter.com/whyyoutouzhele
+李老师不是你老师
+https://www.youtube.com/@whyyoutouzhele
+江峰时刻
+https://www.youtube.com/@JiangFengTimes
+
+
+彭载舟
+“不要核酸要吃饭，不要封控要自由，不要谎言要尊严，不要文革要改革，不要领袖要选票，不做奴才做公民”
 
 
 
