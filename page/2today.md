@@ -14,4 +14,4 @@ type: page
 * **重剑无锋，大巧不工，欲戴王冠，必承其重。**
 * **背孤击虚，移花接木，方生方死，方死方生。**
 
-![东方双龙24式]([https://pic3.zhimg.com/80/v2-264563902f18578d03a7accf38d9e786_720w.webp](https://github.com/hhtc2050/hhtc2050.github.io/blob/master/js/001.jpg?raw=true)https://github.com/hhtc2050/hhtc2050.github.io/blob/master/js/001.jpg?raw=true)
+![东方双龙24式](https://github.com/hhtc2050/hhtc2050.github.io/blob/master/js/001.jpg?raw=true)
