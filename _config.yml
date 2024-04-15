@@ -15,8 +15,8 @@ permalink: /:year/:month/:day/:title/
 baidu_tongji_id: 7ecc8a34540df8373111cd0549d5e4f3
 description_footer: 本站是躺平公主的韩剧博客。
 email: trend@139.com
-weibo_username: wcix
-zhihu_username: mybazi
+weibo_username: 
+zhihu_username: 
 # Build settings
 markdown: kramdown
 kramdown:
