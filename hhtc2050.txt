@@ -1,61 +1,26 @@
-顺势2B:EMA(C,5),COLORWHITE;
-反脆弱:EMA(C,15),COLORWHITE;
-亢龙式:EMA(C,30),COLORYELLOW;
-双节棍式:EMA(C,35),COLORYELLOW;
-刺刀式:EMA(C,40),COLORYELLOW;
-补刀式:EMA(C,45),COLORYELLOW;
-亢龙有悔:EMA(C,50),COLORYELLOW;
-剥皮抽筋:EMA(C,60),COLORYELLOW;
+GMMA
+子:EMA(CLOSE,3),COLORC0C0C0;
+丑:EMA(CLOSE,5),COLORC0C0C0;
+寅:EMA(CLOSE,8),COLORC0C0C0;
+卯:EMA(CLOSE,10),COLORC0C0C0;
+辰:EMA(CLOSE,12),COLORC0C0C0;
+巳:EMA(CLOSE,15),COLORC0C0C0;
+午:EMA(CLOSE,30),COLORYELLOW;
+未:EMA(CLOSE,35),COLORYELLOW;
+申:EMA(CLOSE,40),COLORYELLOW;
+酉:EMA(CLOSE,45),COLORYELLOW;
+戌:EMA(CLOSE,50),COLORYELLOW;
+亥:EMA(CLOSE,60),COLORYELLOW;
 
-赛道选择：只交易F15周期（见龙在田），只交易T+0市场（期货、可转债、外汇）
-亢龙式，6条金龙线&2条银蛇线，二刀流框架，来自宫本武藏、 Daryl Guppy
-亢龙式远离拉锯区，来自缠论中枢、火腿肠同一区间、幽灵规则三回避错误的市场
-亢龙式就是筛选K线图可微的部分，移花接木就是双均线确立定积分的起点和终点
-刺刀式，谢雨锤子线&覆盖线、Nial Fuller锤子线、斯波朗迪2B法则&123法则、缠论一买&二买
-补刀式，Tom Hougaard内包线、斯波朗迪123法则的K线化、寻我双顶双底平台突破
-亢龙有悔、亢龙冇悔，趋势逻辑和乖离逻辑共振，来自火腿肠MA120大斜率&SKD拐头、
-缠论三买、青泽、万浩明、Nial Fuller、Stanley Kroll、Tom Hougaard、殷保华、幽灵规则二
-移花接木，微斯人双均线、李烁、Taleb反脆弱，持有浮盈时间比持有浮亏时间长
-在潜龙勿用阶段，单独的刺刀式和补刀式必须结合巨量，幽灵规则三
-
-亢龙式：龙线发散
-双节棍式：2B假突破
-刺刀式：锤子线
-补刀式：内包线
-亢龙有悔：共振开仓
-剥皮抽筋：一根筋平仓
-
-
-
-老蛮频道
-https://www.youtube.com/@Brute-channel
-不明白播客
-https://www.bumingbai.net
-39小说网
-http://www.wxshuku.info/33/33575/3105355.html
-
-躺平哥
-https://www.youtube.com/@Chinese_real_estate/playlists
-北京之春
-http://beijingspring.com/bj2/bbs/index.htm
-
-文昭
-https://www.youtube.com/@wenzhaoofficial
-公子沈 
-https://www.youtube.com/@gongzishen
-李老师
-https://twitter.com/whyyoutouzhele
-李老师不是你老师
-https://www.youtube.com/@whyyoutouzhele
-江峰时刻
-https://www.youtube.com/@JiangFengTimes
-
-彭载舟
-“不要核酸要吃饭，不要封控要自由，不要谎言要尊严，不要文革要改革，不要领袖要选票，不做奴才做公民”
-
-
-
-
+刺刀式
+TOP:=MA(CLOSE,24)+2*STD(CLOSE,24);
+DOW:=MA(CLOSE,24)-2*STD(CLOSE,24);
+STICKLINE(H>=TOP,0,V,10,0),COLOR00FF00;
+STICKLINE(L<=DOW,0,V,10,0),COLORFF00FF;
+STICKLINE(L>DOW AND H<TOP,0,V,10,0),COLORWHITE;
+TLS:MA(V,24)+2*STD(V,24),COLORYELLOW;
+SIGMA3:=MA(V,24)+3*STD(V,24);
+DRAWICON(V>SIGMA3,V,7);
 
 国金副图SKD
 MAV:=(2*CLOSE+HIGH+LOW)/4;
@@ -77,10 +42,24 @@ STICKLINE(SSK<SSD,SSD,SSK,COLORCYAN,0);
 20,DOT,COLORGRAY;
 80,DOT,COLORGRAY;
 
+亢龙式：龙线发散
+有悔式：2B假突破
+刺刀式：锤子线、覆盖线
+补刀式：123法则加仓
+剥皮式：开仓K线主动止损
+抽筋式：巨量主动止盈一半，刀线收口被动止盈一半
+
+老蛮频道
+https://www.youtube.com/@Brute-channel
+不明白播客
+https://www.bumingbai.ne
+
+彭载舟
+“不要核酸要吃饭，不要封控要自由，不要谎言要尊严，不要文革要改革，不要领袖要选票，不做奴才做公民”
+
 
 医保查询
 https://218.90.158.61/personlogin/#/personLogin
-
 
 国金8881866363
 阿里云hi50163249@aliyun.com
