@@ -22,14 +22,14 @@ TLS:MA(V,24)+2*STD(V,24),COLORYELLOW;
 SIGMA3:=MA(V,24)+3*STD(V,24);
 DRAWICON(V>SIGMA3,V,7);
 
-国金副图SKD
+博易大师副图SKD
 MAV:=(2*CLOSE+HIGH+LOW)/4;
 VAR1:=LLV(LOW,34);
 VAR2:=HHV(HIGH,34);
 SSK:= EMA((MAV-VAR1)/(VAR2-VAR1)*100,13);
 SSD:= EMA(0.667*REF(SSK,1)+0.333*SSK,2);
-STICKLINE(SSK>SSD,SSD,SSK,1,0),COLORMAGENTA;
-STICKLINE(SSK<SSD,SSD,SSK,1,0),COLORCYAN;
+STICKLINE(SSK>SSD,SSD,SSK,10,0),COLORMAGENTA;
+STICKLINE(SSK<SSD,SSD,SSK,10,0),COLORGREEN;
 
 文华副图SKD
 MAV:=(2*CLOSE+HIGH+LOW)/4;
@@ -42,12 +42,16 @@ STICKLINE(SSK<SSD,SSD,SSK,COLORCYAN,0);
 20,DOT,COLORGRAY;
 80,DOT,COLORGRAY;
 
-亢龙式：龙线发散
-有悔式：2B假突破
-刺刀式：锤子线、覆盖线
-补刀式：123法则加仓
-剥皮式：开仓K线主动止损
-抽筋式：巨量主动止盈一半，刀线收口被动止盈一半
+亢龙式 Trend：F15同级别分解，五龙呈现张力
+有悔式 Level ：土木亢龙，2B结构、123结构
+刺刀式 Signal：锤子线、筷子线、反包线，量刺
+补刀式 Ghost.2：金水亢龙，搓揉线加仓
+剥皮式 Ghost.1：刺补刀影线端，证伪止损
+抽筋式 Ghost.3：量刺止盈50%，金线止盈50%
+开天式Rh：金水亢龙，F1微分化
+吸星式BBA：乖离，背驰，分型
+双飞式P2P：内外共振，板块共振
+
 
 老蛮频道
 https://www.youtube.com/@Brute-channel
@@ -60,7 +64,10 @@ https://www.bumingbai.ne
 
 医保查询
 https://218.90.158.61/personlogin/#/personLogin
-
+谷歌haijiang zhou
+joi201661@gmail.com
+joi201661#wuxi
+华东理工Joi201661#wuxi
 国金8881866363
 阿里云hi50163249@aliyun.com
 电信邮箱hhtc2050@189.com
@@ -69,3 +76,4 @@ https://218.90.158.61/personlogin/#/personLogin
 农商卡mql5
 上joi201661+下616386
 168：6883427
+
