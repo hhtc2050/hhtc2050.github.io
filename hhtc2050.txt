@@ -1,3 +1,10 @@
+亢龙有悔F10TLS：龙线级别2B结构，刀线左侧开仓
+补刀式Ghost.2：刀线右侧搓揉线加仓
+袭胸式hhtc2050：黄金S15，刀线开刃，MACD背驰开仓
+剥皮式 Ghost.1：时间止损
+抽筋式 Ghost.3：巨量卷刃，主动止盈50%
+断尾式 Ghost.3：刀线破坏，被动止盈50%
+
 GMMA
 子:EMA(CLOSE,3),COLORC0C0C0;
 丑:EMA(CLOSE,5),COLORC0C0C0;
@@ -42,13 +49,6 @@ STICKLINE(SSK<SSD,SSD,SSK,COLORCYAN,0);
 20,DOT,COLORGRAY;
 80,DOT,COLORGRAY;
 
-亢龙有悔：F10，龙线级别2B结构，刀线左侧开仓
-补刀式Ghost.2：F10，刀线右侧搓揉线加仓
-袭胸式hhtc2050：黄金S15，刀线开刃，MACD背驰开仓
-剥皮式 Ghost.1：刺补刀影线端，证伪止损
-抽筋式 Ghost.3：卷刃+巨量，主动止盈50%
-断尾式 Ghost.3：刀线被动止盈50%
-
 
 老蛮频道
 https://www.youtube.com/@Brute-channel
@@ -73,5 +73,6 @@ joi201661#wuxi
 农商卡mql5
 上joi201661+下616386
 168：6883427
+
 
 
